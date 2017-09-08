@@ -1,2 +1,3 @@
 # hello-world
-Learning by doing so to speak. (?)
+<h1>Hello World!</h1>
+Learning by coding and shutting up.
